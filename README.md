@@ -24,7 +24,6 @@ The dataset contains **1338 entries** with the following columns:
 ### **1️⃣ Distribution of Insurance Charges**
 Shows how **insurance costs are distributed** in the dataset. Most charges are **skewed towards lower values**, but some extreme costs exist.
 
-![Distribution of Insurance Charges](https://user-images.githubusercontent.com/example/distribution.png)
 
 ---
 
@@ -32,7 +31,6 @@ Shows how **insurance costs are distributed** in the dataset. Most charges are *
 - **Smokers (colored differently)** tend to have higher medical costs.
 - A higher **BMI** often correlates with higher charges.
 
-![BMI vs. Insurance Charges](https://user-images.githubusercontent.com/example/bmi_vs_charges.png)
 
 ---
 
@@ -40,7 +38,6 @@ Shows how **insurance costs are distributed** in the dataset. Most charges are *
 - **Smokers** pay **significantly higher** insurance costs compared to non-smokers.
 - Non-smokers have **lower and more consistent** insurance charges.
 
-![Charges by Smoker](https://user-images.githubusercontent.com/example/smoker_charges.png)
 
 ---
 
