@@ -19,14 +19,6 @@ The dataset contains **1338 entries** with the following columns:
 
 ---
 
-## 📌 How to Run the Code in Google Colab
-1. Open **Google Colab**: [https://colab.research.google.com](https://colab.research.google.com)
-2. Upload `insurance.csv`
-3. Copy and paste the Python code provided
-4. Run the code to generate **5 visualizations**
-
----
-
 ## 📊 Visualizations & Insights
 
 ### **1️⃣ Distribution of Insurance Charges**
