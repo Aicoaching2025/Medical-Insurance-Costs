@@ -43,5 +43,40 @@ Shows how **insurance costs are distributed** in the dataset. Most charges are *
 
 ### **4️⃣ Average Insurance Charges by Region**
 - Different **regions** have slightly varying average charges.
-- The **s
+- The **southeast** has the highest average charges.
+
+
+---
+
+### **5️⃣ Correlation Heatmap**
+This heatmap visualizes relationships between **numerical variables** in the dataset:
+- **Strong correlation** between **smoker status and charges**.
+- BMI has a **moderate impact** on charges.
+
+---
+
+## 🚀 Technologies Used
+- **Python** (pandas, matplotlib, seaborn)
+- **Google Colab**
+- **Data Visualization** (Histograms, Scatter Plots, Box Plots, Heatmaps)
+
+---
+
+## 📌 Next Steps
+- Apply **Machine Learning** models to predict insurance costs.
+- Explore **other factors** influencing charges.
+- Build an **interactive dashboard** for better insights.
+
+---
+
+## ✨ Author
+Created by **[Your Name]**  
+📧 Contact: **your.email@example.com**  
+🔗 LinkedIn: **[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)**
+
+---
+
+## 📜 License
+This project is **open-source** under the MIT License.
+
 
