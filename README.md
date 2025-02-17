@@ -71,8 +71,8 @@ This heatmap visualizes relationships between **numerical variables** in the dat
 
 ## ✨ Author
 Created by **[Your Name]**  
-📧 Contact: **your.email@example.com**  
-🔗 LinkedIn: **[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)**
+📧 Contact: **aicoaching2025@gmail.com**  
+🔗 LinkedIn: **[linkedin.com/in/candace215]**
 
 ---
 
